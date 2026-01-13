@@ -1,0 +1,5 @@
+{
+  "name": "Studio del DNA",
+  "description": "An advanced DNA sequence analysis and visualization platform. Explore genetic sequences, calculate GC content, translate to proteins, and use Gemini AI for deep genomics insights.",
+  "requestFramePermissions": []
+}
